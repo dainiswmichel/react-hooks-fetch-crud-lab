@@ -1,21 +1,10 @@
 {
   "questions": [
     {
-      "id": 1,
-      "prompt": "What special prop should always be included for lists of elements?",
-      "answers": [
-        "id",
-        "name",
-        "key",
-        "prop"
-      ],
-      "correctIndex": 2
-    },
-    {
       "id": 2,
       "prompt": "A React component is a function that returns ______.",
       "answers": [
-        "HTML",
+        "HTML123",
         "JSX",
         "props",
         "state"
@@ -65,15 +54,6 @@
         "controlled"
       ],
       "correctIndex": 1
-    },
-    {
-      "prompt": "efasdf",
-      "answer1": "hkh",
-      "answer2": "khjkjhkj",
-      "answer3": "kjhkjh",
-      "answer4": "jkhkjh",
-      "correctIndex": 0,
-      "id": 7
     }
   ]
 }
